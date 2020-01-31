@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ཚོགས་ཀྱི་འཁོར་ལོའི་རྣམ་པར་བཤད་པ་མདོར་བསྡུས་ཉེ་བར་མཁོ་བ་དངོས་གྲུབ་སྦྲང་རྩིའི་ཟིལ་མངར་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-15
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: The Nectar like Honey of Accomplishments:An Short Explanatoin of Wheel of
+      Dharma
+    bo: ཚོགས་ཀྱི་འཁོར་ལོའི་རྣམ་པར་བཤད་པ་མདོར་བསྡུས་ཉེ་བར་མཁོ་བ་དངོས་གྲུབ་སྦྲང་རྩིའི་ཟིལ་མངར་བཞུགས་སོ།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 15
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༡༥
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-15
+  category:
+    en: Pith Instructions
+    bo: མན་ངག
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-15.epub
+  description:
+    en: ''
+    bo: ''
