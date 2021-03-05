@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000261
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཚོགས་ཀྱི་འཁོར་ལོའི་རྣམ་པར་བཤད་པ་མདོར་བསྡུས་ཉེ་བར་མཁོ་བ་དངོས་གྲུབ་སྦྲང་རྩིའི་ཟིལ་མངར་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-15
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: TSD-TSE-15
 web_metadata:
   title:
     en: The Nectar like Honey of Accomplishments:An Short Explanatoin of Wheel of
